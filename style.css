@@ -13,8 +13,6 @@
   header{background:linear-gradient(135deg,var(--green-dark),var(--green));color:#fff;border-radius:16px;padding:28px 28px 22px}
   header h1{margin:0 0 6px;font-size:30px;line-height:1.15}
   header p{margin:4px 0;opacity:.95}
-  .badges{display:flex;flex-wrap:wrap;gap:8px;margin-top:14px}
-  .badge{background:rgba(255,255,255,.16);border:1px solid rgba(255,255,255,.35);color:#fff;border-radius:999px;padding:4px 12px;font-size:13px}
   .rules{display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:12px;margin:16px 0}
   .rule{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px 16px}
   .rule b{display:block;margin-bottom:4px}
